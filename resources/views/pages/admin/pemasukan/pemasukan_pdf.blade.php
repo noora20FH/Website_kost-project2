@@ -24,9 +24,9 @@
                     <div>
                         <strong>Bukti Pendapatan</strong>
                     </div>
-                    <small style="margin : 0px; display: block;">Alamat : Kentingan, Jebres, Surakarta</small>
-                    <small style="margin : 0px; display: block;">Owner : Anggito Galih Nuragam</small>
-                    <p style="margin : 0px;">HP/WA : 085770254568</p>
+                    <small style="margin : 0px; display: block;">Alamat : Semanggi Barat No. 07</small>
+                    <small style="margin : 0px; display: block;">Owner : Nining Darsini</small>
+                    <p style="margin : 0px;">HP/WA : 081282929976</p>
                 </div>
             </div> --}}
         </div>
