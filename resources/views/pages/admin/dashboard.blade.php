@@ -1,7 +1,7 @@
 @extends('layouts.dashboard')
 
 @section('title')
-    Admin Dashboard
+    Owner Dashboard
 @endsection
 
 @section('content')

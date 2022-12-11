@@ -28,14 +28,14 @@
                         </div>
                     @endif
                   <div class="card-header">
-                    <h4>Profil Admin</h4>
+                    <h4>Profil Owner</h4>
                   </div>
                   <div class="card-body">
                     <form action="{{ route('change-profil.update', $item->id) }}" method="POST" enctype="multipart/form-data">
                         @method("PUT")
                         @csrf
                     <div class="form-group">
-                      <label>Nama Admin</label>
+                      <label>Nama Owner</label>
                       <input type="text" name="name" value="Admin" class="form-control disabled">
                     </div>
                     <div class="form-group">

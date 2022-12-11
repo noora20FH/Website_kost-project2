@@ -43,7 +43,7 @@ class UserBookingController extends Controller
             ->first();
         if ($transaction->status == "Menunggu") {
             return redirect()->back()
-            ->withErrors('menunggu admin melakukan konfirmasi pemesanan dan pastikan sudah mengunggah bukti transaksi');
+            ->withErrors('menunggu owner melakukan konfirmasi pemesanan dan pastikan sudah mengunggah bukti transaksi');
         }
         $tipe_kamar =  $transaction->kamar->tipe_kamar;
 

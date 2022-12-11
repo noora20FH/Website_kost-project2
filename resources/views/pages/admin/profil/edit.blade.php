@@ -38,13 +38,13 @@
                             </div>
                         @endif
                         <div class="card-header">
-                            <h4>Informasi Admin</h4>
+                            <h4>Informasi Owner</h4>
                         </div>
                         <div class="card-body">
                             <form action="{{ route('change-profil-redirect',$user->id) }}" method="POST" enctype="multipart/form-data">
                                 @csrf
                                 <div class="form-group">
-                                    <label for="name" class="required">Nama Admin</label>
+                                    <label for="name" class="required">Nama Owner</label>
                                     <input type="text" name="name" value="{{ $user->name }}" class="form-control" required>
                                 </div>
                                 <div class="form-group">

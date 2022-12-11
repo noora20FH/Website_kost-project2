@@ -146,8 +146,8 @@ p.testimonial-body {
             <div
                 class="left-column d-flex flex-lg-grow-1 flex-column align-items-lg-start text-lg-start align-items-center text-center">
                 <h1 class="title-text-big">
-                Ingin Punya<br class="d-lg-block d-none" />
-                Kamar Kost Yang Nyaman
+                Ingin Cari<br class="d-lg-block d-none" />
+                Kamar Kost?
                 </h1>
                 <p>Boarding House merupakan kost <strong>putri</strong> yang nyaman dan bersih serta area yang strategis. Ayo segera miliki kamar di sini.</p>
                 <div class="d-flex flex-sm-row flex-column align-items-center mx-lg-0 mx-auto justify-content-center gap-3">
@@ -228,7 +228,7 @@ p.testimonial-body {
                     Harga Mulai
                 </p>
                 <h2 class="price-value d-flex align-items-center">
-                    <span>Rp300.000 </span>
+                    <span>Rp500.000 </span>
                     <span class="price-duration">/Bulan</span>
                 </h2>
                 <div class="price-list">
@@ -251,7 +251,7 @@ p.testimonial-body {
                 <div class="card-item-outline bg-white d-flex flex-column position-relative overflow-hidden h-100">
                 <h2 class="price-title">Peraturan</h2>
                 <p class="price-caption">
-                    Beberapa peraturan yang<br />
+                    Peraturan yang<br />
                     harus ditaati penghuni
                 </p>
                 <div class="price-list">
@@ -265,13 +265,13 @@ p.testimonial-body {
                     <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
                         <img class="img-fluid"
                         src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content3/Content-3-4.png"
-                        alt="" /> </span>Tamu lawan jenis di ruang tamu
+                        alt="" /> </span>Tamu lawan jenis dilarang masuk kamar
                     </p>
                     <p class="d-flex align-items-center check">
                     <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
                         <img class="img-fluid"
                         src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content3/Content-3-4.png"
-                        alt="" /> </span>Wajib mematuhi jam malam
+                        alt="" /> </span>Wajib mematuhi jam malam yang ada 
                     </p>
                     <p class="d-flex align-items-center check">
                     <span class="span-icon d-inline-flex align-items-center justify-content-center flex-shrink-0">
@@ -301,7 +301,7 @@ p.testimonial-body {
             <div class="col-lg-10 offset-lg-1 text-center">
                 <div class="text-center title-text">
                     <h1 class="text-title">Review Kost</h1>
-                    <p class="text-caption">Berikut review dari mereka</p>
+                    <p class="text-caption">Berikut review dari penghuni kost</p>
                 </div>
                 <div class="testimonial-sliders owl-carousel featured-carousel owl-theme">
                     @foreach ($reviews as $r)
@@ -335,7 +335,7 @@ p.testimonial-body {
     <div class="review container-xxl mx-auto p-0  position-relative" style="font-family: 'Poppins', sans-serif">
         <div class="text-center title-text">
             <h1 class="text-title">Review Kost</h1>
-            <p class="text-caption">Berikut review dari mereka</p>
+            <p class="text-caption">Berikut review dari penghuni kost</p>
         </div>
         <div class="container" style="margin-top: 4rem">
             <div class="row">
@@ -363,9 +363,7 @@ p.testimonial-body {
     <div class="content-2-2 container-xxl mx-auto p-0  position-relative" style="font-family: 'Poppins', sans-serif">
         <div class="text-center title-text">
             <h1 class="text-title">Pilihan Kamar Kost</h1>
-            <p class="text-caption" style="margin-left: 3rem; margin-right: 3rem">
-                Setiap kamar kost memiliki harga yang berbeda
-            </p>
+            
         </div>
 
         <div class="grid-padding text-center">
@@ -444,7 +442,7 @@ p.testimonial-body {
             </div>
             <h3 class="icon-title">Konfirmasi</h3>
             <p class="icon-caption">
-                Pemesanan anda akan dikonfirmasi Admin<br/>
+                Pemesanan anda akan dikonfirmasi oleh Owner<br/>
             </p>
             </div>
         </div>

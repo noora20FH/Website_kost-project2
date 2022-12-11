@@ -67,7 +67,7 @@ body.sidebar-mini .main-sidebar .user.info a>span .user-level {
     <aside id="sidebar-wrapper">
         @if(auth()->user()->hasRole('admin'))
         <div class="sidebar-brand">
-            <a href="#">Admin Dashboard</a>
+            <a href="#">Owner Dashboard</a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
             <a href="#">AD</a>

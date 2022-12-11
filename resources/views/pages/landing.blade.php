@@ -280,7 +280,7 @@ Boarding House
             </div>
             <h3 class="icon-title">Konfirmasi</h3>
             <p class="icon-caption">
-                Pesan anda akan dikonfirmasi Admin<br />
+                Pesan anda akan dikonfirmasi Owner<br />
                 Anda bisa menempati kamar kost
             </p>
             </div>
