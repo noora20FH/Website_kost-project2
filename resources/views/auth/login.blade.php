@@ -10,7 +10,7 @@
     .card .card-header h4 {
         font-size: 16px;
         line-height: 28px;
-        color: #8a7e5c;
+        color:#000;
         padding-right: 10px;
         margin-bottom: 0;
     }
@@ -33,8 +33,8 @@
     }
     .btn-primary, .btn-primary.disabled {
     box-shadow: 0 2px 6px #acb5f6;
-    background-color: #8a7e5c;
-    border-color: #8a7e5c;
+    background-color: #ebd5d5;
+    border-color: #ebd5d5;
 }
 .btn {
     font-weight: 600;
@@ -55,8 +55,8 @@
 }
     .btn-primary {
     color: #fff;
-    background-color: #8a7e5c;
-    border-color: #8a7e5c;
+    background-color: #000;
+    border-color: #ebd5d5;
 }
 
 .required:after {

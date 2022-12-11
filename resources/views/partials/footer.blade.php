@@ -1,9 +1,9 @@
 <style type="text/css">
 .list-unstyled p{
-    color: white;
+    color: black;
 }
 </style>
-<section class="h-100 w-100" id="footer" style="box-sizing: border-box; background-color:#6777df;">
+<section class="h-100 w-100" id="footer" style="box-sizing: border-box; background-color:#ebd5d5;">
 <div class="footer-2-2 container-xxl mx-auto position-relative p-0" style="font-family: 'Poppins', sans-serif">
     <div class="list-footer">
         <div class="row gap-md-0 gap-3">
@@ -11,21 +11,21 @@
                 <h2 class="footer-text-title">Media Sosial</h2>
                 <nav class="list-unstyled">
                     <li class="list-space">
-                        <p>Facebook</p>
+                        <p>Instagram : @boardinghouse</p>
                     </li>
                     <li class="list-space">
-                        <p>Instagram</p>
+                        <p>Facebook  : @boardinghouse</p>
                     </li>
                 </nav>
             </div>
             <div class="col-lg-4 col-md-6">
-                <h2 class="footer-text-title">Jam Berkunjung</h2>
+                <h2 class="footer-text-title">Hubungi</h2>
                 <nav class="list-unstyled">
                     <li class="list-space">
-                        <p>Senin-Sabtu</p>
+                        <p>081282929977</p>
                     </li>
                     <li class="list-space">
-                        <p>08.00-20.00</p>
+                        <p>boardinghouse@gmail.com</p>
                     </li>
                 </nav>
             </div>
@@ -36,10 +36,10 @@
                         <p> Semanggi Barat No. 07</p>
                     </li>
                     <li class="list-space">
-                        <p>081282929976</p>
+                        <p>Kota Malang</p>
                     </li>
                     <li class="list-space">
-                        <p>boardinghouse@gmail.com</p>
+                        <p>Jawa Timur</p>
                     </li>
                 </nav>
             </div>

@@ -1,7 +1,7 @@
 <style type=text/css>
 
 .nav-tabs .nav-item .nav-link {
-  color: #8a7e5c; }
+  color: #ebd5d5; }
   .nav-tabs .nav-item .nav-link.active {
     color: #000; }
     .nav-tabs .nav-item .nav-link {

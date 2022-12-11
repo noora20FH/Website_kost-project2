@@ -72,10 +72,10 @@
                     </div>
                     @guest
                     {{-- <div class="modal-footer border-0 gap-3" style="padding: 2rem; padding-top: 0.75rem">
-                            <a href="{{ route('login') }}" class="btn btn-fill text-white">Masuk</a>
+                            <a href="{{ route('login') }}" class="btn btn-fill text-black">Login</a>
                     </div> --}}
                     <div class="modal-footer border-0 gap-3" style="padding: 2rem; padding-top: 0.75rem">
-                        <a href="{{ route('login') }}" class="btn btn-fill text-white">Masuk</a>
+                        <a href="{{ route('login') }}" class="btn btn-fill text-black">Login</a>
                 </div>
                     @endguest
                 </div>
@@ -90,10 +90,10 @@
             </ul>
             @guest
             {{-- <div class="gap-3">
-                <a href="{{ route('login') }}" class="btn btn-fill text-white">Masuk</a>
+                <a href="{{ route('login') }}" class="btn btn-fill text-black">Login</a>
             </div> --}}
             <div class="gap-3">
-                <a href="{{ route('login') }}" class="btn btn-fill text-white">Masuk</a>
+                <a href="{{ route('login') }}" class="btn btn-fill text-black">Login</a>
             </div>
             @endguest
         </div>

@@ -78,7 +78,7 @@
 .testi-carousel .owl-dots .owl-dot.active span {
     width: 12px;
     height: 12px;
-    background: #8a7e5c; }
+    background: #ebd5d5; }
 
     .client-avater {
   margin-bottom: 20px;
@@ -165,9 +165,9 @@ p.testimonial-body {
             </div>
             <!-- Right Column -->
             <div class="right-column text-center d-flex justify-content-center pe-0">
-                <img id="img-fluid" class="h-auto mw-100"
-                src="{{ asset('fe/img/hero.png') }}"
-                alt="" />
+            <a href="https://www.gambaranimasi.org/cat-rumah-520.htm">
+            <img src="https://www.gambaranimasi.org/data/media/520/animasi-bergerak-rumah-0149.gif" 
+            border="0" alt="animasi-bergerak-rumah-0149" style="display:block; margin:auto;"/></a>
             </div>
         </div>
     </div>
@@ -175,7 +175,7 @@ p.testimonial-body {
 </section>
 
 {{-- Fasilitas --}}
-<section class="h-100 w-100" style="box-sizing: border-box; background-color: #f2f6ff" data-aos="fade-up">
+<section class="h-100 w-100" style="box-sizing: border-box; background-color: #ebd5d5" data-aos="fade-up">
     <div class="content-3-7 overflow-hidden container-xxl mx-auto position-relative" style="font-family: 'Poppins', sans-serif">
         <div class="container mx-auto">
             <div class="d-flex flex-column text-center w-100" style="margin-bottom: 2.25rem">

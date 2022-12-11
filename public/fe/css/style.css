@@ -40,7 +40,7 @@
 
     .header-2-2 .btn-fill {
     font: 600 18px / normal Poppins, sans-serif;
-    background-color: #8a7e5c;
+    background-color: #ebd5d5;
     border-radius: 12px;
     padding: 12px 32px;
     transition: 0.3s;
@@ -74,7 +74,7 @@
     .header-2-2 .text-caption {
     font: 600 0.875rem/1.625 Poppins, sans-serif;
     margin-bottom: 1.5rem;
-    color: #8a7e5c;
+    color: #ebd5d5;
     }
 
     .header-2-2 .left-column {
@@ -96,7 +96,7 @@
     font: 600 1rem/1.5rem Poppins, sans-serif;
     padding: 1rem 1.5rem;
     border-radius: 0.75rem;
-    background-color: #8a7e5c;
+    background-color: #ebd5d5;
     transition: 0.3s;
     }
 
@@ -119,14 +119,14 @@
     }
 
     .header-2-2 .btn-outline:hover {
-    border: 1px solid #8a7e5c;
+    border: 1px solid #ebd5d5;
     color: #fff;
-    background: #8a7e5c;
+    background: #ebd5d5;
     transition: 0.3s;
     }
 
     .header-2-2 .btn-outline:hover div path {
-    fill: #8a7e5c;
+    fill: #ebd5d5;
     transition: 0.3s;
     }
 
@@ -361,7 +361,7 @@
             width: 2.25rem;
             margin-bottom: 1.25rem;
             border-radius: 9999px;
-            background-color: #8a7e5c;
+            background-color: #ebd5d5;
         }
 
         .content-3-2 .text-caption {
@@ -405,7 +405,7 @@
     }
     .galeri {
         /* padding: 2rem 2rem; */
-        background: #F2F6FF;
+        background: #6181cb;
     }
     .galeri .title-text {
         padding-top: 5rem;
@@ -520,7 +520,7 @@
         }
         .content-2-2 {
             padding: 5rem 3rem;
-            background: #F2F6FF;
+            background: #ebd5d5;
         }
         .content-2-2 .title-text {
             padding-top: 5rem;
@@ -592,7 +592,7 @@
             transition: all .35s ease;
         }
         .card-explore:hover a {
-            color: #8a7e5c;
+            color: #ebd5d5;
         }
         .card-explore:hover .card-explore__link i, .card-explore:hover .card-explore__link span {
             padding-left: 10px;
@@ -635,7 +635,7 @@
 
         .content-2-2 .btn-card {
             font: 700 1rem/1.5rem Poppins, sans-serif;
-            background-color: #8a7e5c;
+            background-color: #ebd5d5;
             padding-top: 1rem;
             padding-bottom: 1rem;
             width: 100%;
@@ -661,8 +661,8 @@
         }
 
         .content-2-2 .btn-outline:hover {
-            border: 1px solid #8a7e5c;
-            color: #8a7e5c;
+            border: 1px solid #ebd5d5;
+            color: #ebd5d5;
         }
 
         .content-2-2 .card-text {
@@ -676,7 +676,7 @@
 
         .content-2-2 .btn-fill {
             font: 600 18px / normal Poppins, sans-serif;
-            background-color: #8a7e5c;
+            background-color: #ebd5d5;
             border-radius: 12px;
             padding: 12px 32px;
             transition: 0.3s;
@@ -836,7 +836,7 @@
             transition: all .35s ease;
         }
         .card-explore:hover a {
-            color: #8a7e5c;
+            color: #ebd5d5;
         }
         .card-explore:hover .card-explore__link i, .card-explore:hover .card-explore__link span {
             padding-left: 10px;
@@ -879,7 +879,7 @@
 
         .content-4-2 .btn-card {
             font: 700 1rem/1.5rem Poppins, sans-serif;
-            background-color: #8a7e5c;
+            background-color: #ebd5d5;
             padding-top: 1rem;
             padding-bottom: 1rem;
             width: 100%;
@@ -905,8 +905,8 @@
         }
 
         .content-4-2 .btn-outline:hover {
-            border: 1px solid #8a7e5c;
-            color: #8a7e5c;
+            border: 1px solid #ebd5d5;
+            color: #ebd5d5;
         }
 
         .content-4-2 .card-text {
@@ -920,7 +920,7 @@
 
         .content-4-2 .btn-fill {
             font: 600 18px / normal Poppins, sans-serif;
-            background-color: #8a7e5c;
+            background-color: #ebd5d5;
             border-radius: 12px;
             padding: 12px 32px;
             transition: 0.3s;
@@ -1146,7 +1146,7 @@
         }
 
         .detail-1 .breadcrumb-item.li.a {
-            color: #8a7e5c;
+            color: #ebd5d5;
         }
 
         @media (min-width: 360px) {
@@ -1201,7 +1201,7 @@
         }
 
         .confirmation .breadcrumb-item.li.a {
-            color: #8a7e5c;
+            color: #ebd5d5;
         }
         /* Footer */
         .footer-2-2 .list-space {
@@ -1211,7 +1211,7 @@
         .footer-2-2 .footer-text-title {
             font-size: 1.5rem;
             font-weight: 600;
-            color: #fff;
+            color: rgb(0, 0, 0);
             margin-bottom: 1.5rem;
         }
 
@@ -1231,7 +1231,7 @@
         }
 
         .footer-2-2 .border-color {
-            color: #fff;
+            color: rgb(57, 43, 43);
         }
 
         .footer-2-2 .footer-link {
@@ -1303,7 +1303,7 @@
             padding: 20px 25px; }
 
         .card.card-primary {
-            border-top: 2px solid #8a7e5c; }
+            border-top: 2px solid #ebd5d5; }
 
         .card-body{
             flex: 1 1 auto;
@@ -1397,7 +1397,7 @@
                           border-radius: 0 3px 3px 0;
                           padding-left: 15px; }
                           a {
-                            color: #8a7e5c;
+                            color: #ebd5d5;
                             font-weight: 500;
                             transition: all .5s;
                             -webkit-transition: all .5s;
@@ -1418,8 +1418,8 @@
 
                             .btn-primary, .btn-primary.disabled {
                                 box-shadow: 0 2px 6px #acb5f6;
-                                background-color: #8a7e5c;
-                                border-color: #8a7e5c; }
+                                background-color: #ebd5d5;
+                                border-color: #ebd5d5; }
                                 .btn-primary:focus, .btn-primary.disabled:focus {
                                   background-color: #394eea !important; }
                                   .btn-primary:focus:active, .btn-primary.disabled:focus:active {

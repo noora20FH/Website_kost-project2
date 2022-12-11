@@ -58,7 +58,7 @@ Boarding House
 .testi-carousel .owl-dots .owl-dot.active span {
   width: 12px;
   height: 12px;
-  background: #8a7e5c; }
+  background: #ebd5d5; }
 </style>
 {{-- Hero --}}
 <section class="h-100 w-100 bg-white" style="box-sizing: border-box" id="beranda">
@@ -88,9 +88,9 @@ Boarding House
             </div>
             <!-- Right Column -->
             <div class="right-column text-center d-flex justify-content-center pe-0">
-                <img id="img-fluid" class="h-auto mw-100"
-                src="{{ asset('fe/img/hero.png') }}"
-                alt="" />
+            <a href="https://www.gambaranimasi.org/cat-rumah-520.htm">
+            <img src="https://www.gambaranimasi.org/data/media/520/animasi-bergerak-rumah-0149.gif" 
+            border="0" alt="animasi-bergerak-rumah-0149" style="display:block; margin:auto;"/></a>
             </div>
         </div>
     </div>
@@ -103,9 +103,9 @@ Boarding House
         <div class="d-flex flex-lg-row flex-column align-items-center">
         <!-- Left Column -->
         <div class="img-hero text-center justify-content-center d-flex">
-            <img id="hero" class="img-fluid"
-            src="{{ asset('fe/img/Home-search.png') }}"
-            alt="" />
+        <a href="https://www.gambaranimasi.org/cat-rumah-520.htm">
+            <img src="https://www.gambaranimasi.org/data/media/520/animasi-bergerak-rumah-0149.gif" 
+            border="0" alt="animasi-bergerak-rumah-0149" style="display:block; margin:auto;"/></a>
         </div>
 
         <!-- Right Column -->
