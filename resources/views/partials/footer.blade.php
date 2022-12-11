@@ -33,13 +33,13 @@
                 <h2 class="footer-text-title">Lokasi</h2>
                 <nav class="list-unstyled">
                     <li class="list-space">
-                        <p> Jebres, Surakarta</p>
+                        <p> Semanggi Barat No. 07</p>
                     </li>
                     <li class="list-space">
-                        <p>081215693556</p>
+                        <p>081282929976</p>
                     </li>
                     <li class="list-space">
-                        <p>kostgriyokenyo@gmail.com</p>
+                        <p>boardinghouse@gmail.com</p>
                     </li>
                 </nav>
             </div>
@@ -50,7 +50,7 @@
             </div>
             <div class="mx-auto d-flex flex-column flex-lg-row align-items-center footer-info-space gap-4">
                 <nav class="d-flex flex-lg-row flex-column align-items-center justify-content-center">
-                    <p style="margin: 0">Copyright © 2021 Kost Griyo Kenyo</p>
+                    <p style="margin: 0">Copyright © 2022 Boarding House</p>
                 </nav>
             </div>
         </div>

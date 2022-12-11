@@ -22,7 +22,7 @@
             <div class="col-md-12">
                 <div style="text-align: center;">
                     <div>
-                        <strong>Bukti Pengeluaran Kost Griyo Kenyo</strong>
+                        <strong>Bukti Pengeluaran</strong>
                     </div>
                     <small style="margin : 0px; display: block;">Alamat : Kentingan, Jebres, Surakarta</small>
                     <small style="margin : 0px; display: block;">Owner : Anggito Galih Nuragam</small>

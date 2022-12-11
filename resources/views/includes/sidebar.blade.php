@@ -78,7 +78,7 @@ body.sidebar-mini .main-sidebar .user.info a>span .user-level {
         <div class="sidebar-brand">
             {{-- <a href="#">Dashboard Pengguna</a> --}}
             <a href="">
-            <img src="{{ asset('fe/img/GriyoKenyo.png') }}" class="img-sidebar" style="margin-right: 90px" alt="">
+            <img src="{{ asset('fe/img/logoboarding.png') }}" class="img-sidebar" style="margin-right: 90px" alt="">
         </a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">

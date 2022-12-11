@@ -7,7 +7,7 @@
 @endpush
 
 @section('title')
-    Kost Griyo Kenyo
+    Boarding House
 @endsection
 
 @section('content')
@@ -78,7 +78,7 @@
 .testi-carousel .owl-dots .owl-dot.active span {
     width: 12px;
     height: 12px;
-    background: #6777EF; }
+    background: #8a7e5c; }
 
     .client-avater {
   margin-bottom: 20px;
@@ -149,7 +149,7 @@ p.testimonial-body {
                 Ingin Punya<br class="d-lg-block d-none" />
                 Kamar Kost Yang Nyaman
                 </h1>
-                <p>Kost Griyo Kenyo merupakan kost <strong>putri</strong> yang nyaman dan bersih. Bagi kamu yang ingin mendapat suasana tersebut, Ayo segera miliki kamar di sini.</p>
+                <p>Boarding House merupakan kost <strong>putri</strong> yang nyaman dan bersih serta area yang strategis. Ayo segera miliki kamar di sini.</p>
                 <div class="d-flex flex-sm-row flex-column align-items-center mx-lg-0 mx-auto justify-content-center gap-3">
                 <a href="#kamar" class="btn d-inline-flex mb-md-0 btn-try text-white">
                     Pilih Kamar
@@ -408,9 +408,9 @@ p.testimonial-body {
 <section class="h-100 w-100 bg-white" style="box-sizing: border-box; margin-bottom: 3rem" data-aos="fade-up">
     <div class="content-4-2 container-xxl mx-auto p-0  position-relative" style="font-family: 'Poppins', sans-serif">
         <div class="text-center title-text">
-            <h1 class="text-title">Cara Pembayaran</h1>
+            <h1 class="text-title">Cara Pemesanan Kamar</h1>
             <p class="text-caption" style="margin-left: 3rem; margin-right: 3rem">
-                Tata Cara Pembayaran Melalui Website
+                Tata Cara Pemesanan Kamar Melalui Website
             </p>
         </div>
 

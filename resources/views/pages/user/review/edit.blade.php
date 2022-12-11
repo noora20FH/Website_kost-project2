@@ -7,7 +7,7 @@ Review Kost
 @section('content')
 <style>
     .btn-filll{
-        background-color: #6777ef;
+        background-color: #8a7e5c;
         border-radius: 12px;
         padding: 12px 28px;
     }

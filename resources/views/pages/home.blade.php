@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="description" content="" />
 <meta name="author" content="" />
-<title>Kost Griyo Kenyo</title>
+<title>Boarding House</title>
 
 @include('includes.main.style')
 </head>
@@ -19,8 +19,8 @@
         <div class="container">
             <div class="home-banner">
             <div class="text-center">
-                <h4>Rumah Kost yang bersih dan nyaman</h4>
-                <h1>Rumah Kost Griyo Kenyo</h1>
+                <h4>Rumah Kost yang bersih dan nyaman serta strategis</h4>
+                <h1>Boarding House</h1>
                 <a class="button home-banner-btn" href="#">Silakan Memilih Kamar</a>
             </div>
             </div>
@@ -62,7 +62,7 @@
     <section class="section-margin" id="kost">
         <div class="container">
             <div class="section-intro text-center pb-80px">
-            <h2>Tipe Kamar Rumah Kost Griyo Kenyo</h2>
+            <h2>Tipe Kamar</h2>
             </div>
 
             <div class="row">

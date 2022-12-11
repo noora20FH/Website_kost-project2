@@ -7,7 +7,7 @@
 @section('content')
 <style>
 .btn-fill{
-    background-color: #6777ef;
+    background-color: #8a7e5c;
     border-radius: 12px;
     padding: 12px 28px;
     transition: 0.3s;

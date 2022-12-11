@@ -2,8 +2,8 @@
 <div class="container-xxl mx-auto p-0  position-relative header-2-2" style="font-family: 'Poppins', sans-serif">
     <nav class="navbar navbar-expand-lg navbar-light">
         <a href={{ route('home') }}>
-        <img style="margin-right: 0.75rem;"
-            src="{{ asset('fe/img/GriyoKenyo.png') }}" alt="" />
+        <img style="margin-left: -10rem; width: 400px;"
+            src="{{ asset('fe/img/logoboarding.png') }}" alt="" />
         </a>
         <button class="navbar-toggler border-0" type="button" data-toggle="modal" data-target="#targetModal">
             <span class="navbar-toggler-icon"></span>
@@ -15,8 +15,8 @@
                 <div class="modal-content bg-white border-0">
                     <div class="modal-header border-0" style="padding: 2rem; padding-bottom: 0">
                         <a class="modal-title" id="targetModalLabel">
-                        <img style="margin-top: 0.5rem; width: 100px; height:70px"
-                        src="{{ asset('fe/img/GriyoKenyo.png') }}" alt="" />
+                        <img style="margin-top: 0.5rem; width: 50px; height:70px"
+                        src="{{ asset('fe/img/logoboarding.png') }}" alt="" />
                         </a>
                         <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
                     </div>
