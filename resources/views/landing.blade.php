@@ -160,6 +160,10 @@ p.testimonial-body {
                         Daftar
                     </div>
                 </a>
+
+                <a href="/location" class="btn d-inline-flex mb-md-0 btn-try text-white">
+                    Lokasi
+                </a>
                 @endguest
                 </div>
             </div>

@@ -4,6 +4,7 @@ use App\Events\MessageStatus;
 use App\Http\Controllers\DetailController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\LocationController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,12 +18,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'HomeController@index')->name('home');
+Route::get('/location',  [LocationController::class, 'location']);
 
-// Route::get('/', 'HomeController@index') {
-//     MessageStatus::dispatch();
 
-//     return view('home');
-// });
 Route::get('details/{id}', 'DetailController@detail')->name('detail-kost');
 Route::post('details/{id}/confirmation', 'BookingController@confirmation')->name('confirmation');
 Route::post('details/{id}/book', 'BookingController@booking')->name('booking');
