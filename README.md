@@ -1,3 +1,3 @@
-Tugas Akhir Sistem Informasi Manajemen Rumah Kost
+Project 2
 - Laravel 7
 - MySQL
