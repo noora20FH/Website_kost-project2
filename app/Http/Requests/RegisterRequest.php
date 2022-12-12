@@ -30,16 +30,5 @@ class RegisterRequest extends FormRequest
             'password-confirmation' => 'required|same:password',
         ];
     }
-
-    // public function messages()
-    // {
-    //     return [
-    //         'photo_ktp' => 'required|image',
-    //         'password.required' =>'Kata sandi tidak boleh kosong',
-    //         'password.min' => 'kata sandi tidak boleh kurang dari 8 karakter',
-    //         'password-confirmation.required' => 'konfirmasi kata sandi tidak boleh kosong',
-    //         'password-confirmation.same' => 'konfirmasi sandi tidak sama',
-    //         'photo_ktp.required' => 'foto ktp tidak boleh kosong'
-    //     ];
-    // }
 }
+

@@ -89,21 +89,3 @@ class RegisterController extends Controller
         return $user;
     }
 }
-
-// 'alamat' => ['required','string'],
-// 'pekerjaan' => ['required','alpha'],
-// 'foto_ktp' => ['required','image','mimes:png,jpg,jpeg','max:2048'],
-// 'alamat.required' => 'Alamat asal tidak boleh kosong',
-// 'alamat.string' => 'Alamat asal harus berupa huruf',
-// 'pekerjaan.required' => 'Pekerjaan tidak boleh kosong',
-// 'pekerjaan.alpha' => 'Pekerjaan harus berupa huruf',
-// 'foto_ktp.required' => 'Foto ktp tidak boleh kosong',
-// 'foto_ktp.mimes' => 'Foto ktp harus berupa file png,jpg, atau jpeg',
-// 'foto_ktp.max' => 'Ukuran foto ktp tidak boleh lebih dari 2MB',
-// 'foto_ktp.image' => 'Foto Ktp harus berupa gambar'
-// 'alamat' => $data['alamat'],
-// 'pekerjaan' => $data['pekerjaan'],
-// if(request()->hasFile('foto_ktp')){
-//     $foto_ktp = request()->file('foto_ktp')->store('assets/user','public');
-//     $user->update(['foto_ktp' => $foto_ktp]);
-// }
