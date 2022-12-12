@@ -49,7 +49,7 @@
                 <p>2. Pilih Kamar, Tanggal Masuk, dan Durasi Sewa</p>
                 <p>3. Lakukan pembayaran sesuai dengan harga yang tertera</p>
                 <p>4. Masuk ke Dashboard dan upload bukti pembayaran</p>
-                <p>5. Admin akan mengkonfirmasi pembayaran</p>
+                <p>5. Owner akan mengkonfirmasi pembayaran</p>
                 </div>
             </div>
             </div>

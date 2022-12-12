@@ -77,6 +77,10 @@
                     <div class="modal-footer border-0 gap-3" style="padding: 2rem; padding-top: 0.75rem">
                         <a href="{{ route('login') }}" class="btn btn-fill text-black">Login</a>
                 </div>
+
+
+
+                
                     @endguest
                 </div>
             </div>
@@ -95,6 +99,13 @@
             <div class="gap-3">
                 <a href="{{ route('login') }}" class="btn btn-fill text-black">Login</a>
             </div>
+
+                <a href="{{ route('register') }}" class="btn btn-outline">
+                    <div class="d-flex align-items-center">
+                        Daftar
+                    </div>
+                </a>
+
             @endguest
         </div>
         @auth

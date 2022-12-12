@@ -154,17 +154,13 @@ p.testimonial-body {
                 <a href="#kamar" class="btn d-inline-flex mb-md-0 btn-try text-white">
                     Pilih Kamar
                 </a>
-                @guest
-                <a href="{{ route('register') }}" class="btn btn-outline">
-                    <div class="d-flex align-items-center">
-                        Daftar
-                    </div>
-                </a>
 
                 <a href="/location" class="btn d-inline-flex mb-md-0 btn-try text-white">
                     Lokasi
                 </a>
-                @endguest
+
+
+                
                 </div>
             </div>
             <!-- Right Column -->
