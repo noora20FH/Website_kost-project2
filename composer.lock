@@ -1908,16 +1908,13 @@
             ],
             "authors": [
                 {
-                    "name": "Andri Setiawan",
-                    "email": "andri.setiawan@veritrans.co.id"
+                    "name": "amalia nuraini",
+                    "email": "amalianuraini10@gmail.com"
                 },
+                
                 {
-                    "name": "Alvin Litani",
-                    "email": "alvin.litani@veritrans.co.id"
-                },
-                {
-                    "name": "Ismail Faruqi",
-                    "email": "ismail.faruqi@veritrans.co.id"
+                    "name": "Noora Aulia",
+                    "email": "noora@gmail.com"
                 }
             ],
             "description": "PHP Wrapper for Midtrans Payment API.",
