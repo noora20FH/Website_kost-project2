@@ -31,7 +31,7 @@ Route::get('invoice','BookingController@show')->name('upload');
 Route::post('upload/{id}','BookingController@upload')->name('upload-pembayaran');
 
 Route::prefix('user')
-    ->middleware(['auth', 'role:user', 'verified'])
+    ->middleware(['auth', 'role:user'])
     ->group(function () {
         Route::get('change-pass', 'ChangePassController@change')->name('change-pass');
         Route::post('change-pass','ChangePassController@update')->name('change-pass-user-update');
@@ -57,7 +57,7 @@ Route::prefix('user')
     });
 
 Route::prefix('admin')
-    ->middleware(['auth', 'role:admin', 'verified'])
+    ->middleware(['auth', 'role:admin'])
     ->group(function () {
         Route::get('/', 'Admin\DashboardController@index')->name('admin-dashboard');
 
@@ -111,7 +111,7 @@ Route::prefix('admin')
         Route::get('tipe/galeri/delete/{id}','Admin\TipeKamarController@deleteGaleri')->name('kamar-galeri-delete');
 
         Route::prefix('tipe')
-            ->middleware(['auth', 'role:admin' , 'verified'])
+            ->middleware(['auth', 'role:admin' ])
             ->group(function(){
                 Route::get('/{id}/kamar', 'Admin\KamarController@index');
                 Route::get('/{id}/kamar/create', 'Admin\KamarController@create');
