@@ -108,7 +108,7 @@ p.required-field::after {
                             @endif
                             <br>
                             @auth
-                            <button type="submit" class="btn btn-fill px-5 text-white btn-block mb-3" style="width: 100%">
+                            <button type="submit" class="btn btn-fill px-5 text-black btn-block mb-3" style="width: 100%">
                                 Pesan Kamar
                             </button>
                             @else
@@ -133,16 +133,16 @@ p.required-field::after {
                         @endphp
                         @foreach ($tipe_kamars as $tipe_kamar)
                         <div class="col-lg-3">
-                            <h5 style="color:#ebd5d5">Tipe Kamar</h5>
+                            <h5 style="color:#000">Tipe Kamar</h5>
                                 <input type="hidden" name="id" value="{{ $tipe_kamar->kamar }}">
                                 <div class="owner" style="margin-bottom: 0.5rem">{{ $tipe_kamar->nama }}</div>
                         </div>
                         <div class="col-lg-3">
-                                <h5 style="color:#ebd5d5">Deskripsi</h5>
+                                <h5 style="color:#000">Deskripsi</h5>
                                 <p>Berada di lantai {{ $tipe_kamar->lantai }} dan memiliki ukuran kamar {{ $tipe_kamar->ukuran }} </p>
                         </div>
                         <div class="col-lg-8">
-                        <h5 style="color:#ebd5d5">Fasilitas</h5>
+                        <h5 style="color:#000">Fasilitas</h5>
                         @foreach ($tipe_kamar->fasilitas->chunk(3) as $facilityy)
                             @php $incrementRoomType = 0 @endphp
                             @forelse ($facilityy as $facility)

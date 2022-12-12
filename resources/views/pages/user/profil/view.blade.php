@@ -111,7 +111,7 @@ label:hover {
                         <div class="col-md-4 border-right">
                             <div class="d-flex flex-column align-items-center text-center p-3 py-3">
                                 @if ($u->avatar != null)
-                                    <img src="{{ Storage::url($u->avatar) }}" width="200px" height="200px" alt="foto"
+                                    <img src="{{ asset('storage/'.$u->avatar) }}" width="200px" height="200px" alt="foto"
                                     style="rounded-circle mt-5">
                                 @else
                                     <img src="{{ asset('assets/img/avatar/avatar-4.png') }}" width="200px" height="200px" alt="foto"

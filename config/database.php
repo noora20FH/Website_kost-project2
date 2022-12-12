@@ -48,7 +48,7 @@ return [
             'url' => env('DATABASE_URL'),
             'host' => env('DB_HOST', '127.0.0.1'),
             'port' => env('DB_PORT', '3306'),
-            'database' => env('DB_DATABASE', 'boardinghouse_dbkos'),
+            'database' => env('DB_DATABASE', 'sikos'),
             'username' => env('DB_USERNAME', 'boardinghouse_adminkos'),
             'password' => env('DB_PASSWORD', 'AdminKosGanteng'),
             'unix_socket' => env('DB_SOCKET', ''),

@@ -423,9 +423,9 @@ p.testimonial-body {
                 <img src="{{ asset('fe/img/login.png') }}" style="width:200px; height:200px"
                 alt="" />
             </div>
-            <h3 class="icon-title">Pendaftaran Akun</h3>
+            <h3 class="icon-title">Login Akun</h3>
             <p class="icon-caption">
-                Anda perlu mendaftar<br />
+                Anda perlu login<br />
                 ke dalam sistem
             </p>
             </div>

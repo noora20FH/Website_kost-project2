@@ -65,7 +65,7 @@ class User extends Authenticatable implements MustVerifyEmail
     {
         $avatar = null;
         if($this->avatar == 'avatar'){
-            $avatar = public_path('assets/storage/assets/avatar/'.$this->avatar);
+            $avatar = public_path('/assets/avatar/'.$this->avatar);
         }
         return $avatar;
     }
