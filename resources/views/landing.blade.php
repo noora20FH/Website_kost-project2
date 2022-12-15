@@ -151,11 +151,11 @@ p.testimonial-body {
                 </h1>
                 <p>Boarding House merupakan kost <strong>putri</strong> yang nyaman dan bersih serta area yang strategis. Ayo segera miliki kamar di sini.</p>
                 <div class="d-flex flex-sm-row flex-column align-items-center mx-lg-0 mx-auto justify-content-center gap-3">
-                <a href="#kamar" class="btn d-inline-flex mb-md-0 btn-try text-white">
+                <a href="#kamar" class="btn d-inline-flex mb-md-0 btn-try text-black">
                     Pilih Kamar
                 </a>
 
-                <a href="/location" class="btn d-inline-flex mb-md-0 btn-try text-white">
+                <a href="/location" class="btn d-inline-flex mb-md-0 btn-try text-black">
                     Lokasi
                 </a>
 
@@ -390,7 +390,7 @@ p.testimonial-body {
                                 {{ $jum }}</p>
                             <p class="room-price">Rp {{number_format($tipe_kamar->harga)}}/bulan</p>
                         </div>
-                        <a href="{{ route('detail-kost',$tipe_kamar->id) }}" class="btn btn-fill text-white d-block">Pilih Kamar</a>
+                        <a href="{{ route('detail-kost',$tipe_kamar->id) }}" class="btn btn-fill text-black d-block">Pilih Kamar</a>
                     </div>
                     </div>
                 </div>
